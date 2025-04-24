@@ -1,1 +1,13 @@
 venv/
+# Ignore all image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+# Ignore images in the Data folder
+fashionai-main/Data/*.png
+fashionai-main/Data/*.jpg
+fashionai-main/Data/*.jpeg
+fashionai-main/Data/*.gif
+fashionai-main/Data/*.bmp
